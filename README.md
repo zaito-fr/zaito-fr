@@ -1,6 +1,6 @@
 # Hey, je suis Zaito 👋
 
-Développeur autodidacte de 19 ans basé à Marseille 🇫🇷  
+Développeur autodidacte de 19 ans basé en France 🇫🇷  
 Passionné par l'automatisation, l'IA et le reverse engineering.
 
 ---
