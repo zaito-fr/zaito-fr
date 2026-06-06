@@ -1,4 +1,4 @@
-# Hey, je suis Jamil 👋
+# Hey, je suis Zaito 👋
 
 Développeur autodidacte de 19 ans basé à Marseille 🇫🇷  
 Passionné par l'automatisation, l'IA et le reverse engineering.
