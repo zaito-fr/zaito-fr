@@ -19,7 +19,7 @@ Passionné par l'automatisation, l'IA et le reverse engineering.
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | [whisper-transcriber](https://github.com/zaito-fr/whisper-transcriber) | Transcription automatique audio/vidéo en local | Python, Whisper |
-| 🔜 doc-chatbot | Chatbot sur tes propres documents PDF | Python, LangChain |
+| [doc-chatbot](https://github.com/zaito-fr/doc-chatbot)  | Chatbot sur tes propres documents PDF | Python, LangChain |
 | 🔜 article-summarizer | Résumé automatique d'articles depuis une URL | Python |
 
 ---
