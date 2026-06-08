@@ -1,30 +1,28 @@
-# Hey, je suis Zaito 👋
+# Jamil · Développeur Python & IA
 
-Développeur autodidacte de 19 ans basé en France 🇫🇷  
-Passionné par l'automatisation, l'IA et le reverse engineering.
-
----
-
-## 🛠️ Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+Développeur autodidacte basé à Marseille 🇫🇷  
+Je construis des outils d'**automatisation**, des **pipelines IA** et des systèmes **LLM locaux**.
 
 ---
 
-## 🚀 Projets
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+---
+
+## Projets
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [whisper-transcriber](https://github.com/zaito-fr/whisper-transcriber) | Transcription automatique audio/vidéo en local | Python, Whisper |
-| [doc-chatbot](https://github.com/zaito-fr/doc-chatbot)  | Chatbot sur tes propres documents PDF | Python, LangChain |
-| 🔜 article-summarizer | Résumé automatique d'articles depuis une URL | Python |
+| [doc-chatbot](https://github.com/zaito-fr/doc-chatbot) | Chatbot RAG — interroge n'importe quel document en local, sans API key | LangChain · Ollama · FAISS · Flask |
+| [whisper-transcriber](https://github.com/zaito-fr/whisper-transcriber) | Transcription audio/vidéo en ligne de commande, 100% local | Whisper · Python |
 
 ---
 
-## 📊 Stats
+## Centres d'intérêt
 
-![zaito-fr's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaito-fr&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaito-fr&layout=compact&theme=tokyonight&hide_border=true)
+Reverse engineering · Émulation · Inférence LLM locale · Deep learning
