@@ -1,4 +1,4 @@
-# Jamil · Développeur Python & IA
+# Zaito · Développeur Python & IA
 
 Développeur autodidacte basé à Marseille 🇫🇷  
 Je construis des outils d'**automatisation**, des **pipelines IA** et des systèmes **LLM locaux**.
