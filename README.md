@@ -28,12 +28,3 @@ Passionné par l'automatisation, l'IA et le reverse engineering.
 
 ![zaito-fr's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaito-fr&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaito-fr&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Contact
-
-Tu as un projet d'automatisation, de scraping ou d'IA ? Écris-moi :
-
-[![Malt](https://img.shields.io/badge/Malt-FF6B6B?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)](https://www.malt.fr)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaito0102@gmail.com)
